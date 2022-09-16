@@ -1,2 +1,2 @@
 # Advance-Image-Processing
-This repository contains different projects on advance image processing
+This repository contains different projects on advance image processing.
